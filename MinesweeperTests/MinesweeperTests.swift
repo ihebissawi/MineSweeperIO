@@ -2,8 +2,8 @@
 //  MinesweeperTests.swift
 //  MinesweeperTests
 //
-//  Created by Dhia Mili on 3/2/17.
-//  Copyright © 2017 Dhia Mili. All rights reserved.
+//  Created by IHEB ISSAWI on 3/3/17.
+//  Copyright © 2017 iheb.issawi. All rights reserved.
 //
 
 import XCTest
